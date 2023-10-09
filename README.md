@@ -1,5 +1,5 @@
 # Movie-Recommendation-Service
-# group-project-f22-popcorntime
+
 group-project-f22-popcorntime created by GitHub Classroom
 
 Overview: Movie Recommendations
