@@ -114,5 +114,5 @@ Function for getting movie recommendation is in `recommendation.py`.
 ```
 get_recommendations(54948)  # returns movie ids for user 54948
 ```
-![Architecture Diagram](url/to/your/image.png)
+![Architecture Diagram](https://github.com/sparveencmu/Movie-Recommendation-Service/blob/main/MLDiagram.png)
 
